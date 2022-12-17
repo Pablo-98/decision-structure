@@ -24,22 +24,4 @@ public class weatherChecker {
 
         }
 
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
 }
