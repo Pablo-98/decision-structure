@@ -12,7 +12,20 @@ public class weatherChecker {
         // first, give the user a question
         System.out.println("Enter temperature");
 
-        int temperature = input.nextInt();
+        int temp = input.nextInt();
+
+        if ( temp >= 80) {
+            System.out.println("wear shorts and t shirt");
+
+        }
+        else {
+            System.out.println("wear jacket bruh");
+        }
+
+        }
+
+
+    
 
 
 
