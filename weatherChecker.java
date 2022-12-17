@@ -12,8 +12,11 @@ public class weatherChecker {
         // first, give the user a question
         System.out.println("Enter temperature");
 
+
+        // this allows user to input data in the console in response to the prompt above
         int temp = input.nextInt();
 
+        //this is a simple if/else statement where one condition is stated and if the condition is not met the text "wear jacket bruh" pops up
         if ( temp >= 80) {
             System.out.println("wear shorts and t shirt");
 
